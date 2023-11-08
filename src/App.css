@@ -1,6 +1,18 @@
 .App {
   text-align: center;
 }
+button{
+  padding: 15px;
+  border-radius: 15px;
+  margin-top: 15px;
+  background-color: rgb(150, 236, 39);
+}
+input{
+  padding: 15px;
+  font-size: x-large;
+  border-radius: 15px;
+  margin-top: 15px;
+}
 
 .App-logo {
   height: 40vmin;
